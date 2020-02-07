@@ -1,0 +1,46 @@
+{
+  "name": "Meeting programme EGU2020",
+  "short_name": "Meeting programme EGU2020",
+  "theme_color": "#1976d2",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "/pwa/",
+  "start_url": "/pwa/",
+  "icons": [
+    {
+      "src": "assets/icons/favicon_egu_76x76_.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/favicon_egu_96x96_.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/favicon_egu_128x128_.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/favicon_egu_144x144_.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/favicon_egu_152x152_.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/favicon_egu_195x195_.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/favicon_egu_512x512_.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

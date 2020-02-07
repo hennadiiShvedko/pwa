@@ -1,0 +1,94 @@
+{
+  "configVersion": 1,
+  "timestamp": 1581001087399,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.82ccfd40418212f1a04e.js",
+        "/main-es5.82ccfd40418212f1a04e.js",
+        "/manifest.webmanifest",
+        "/polyfills-es2015.2987770fde9daa1d8a2e.js",
+        "/polyfills-es5.6696c533341b95a3d617.js",
+        "/runtime-es2015.edb2fcf2778e7bf1d426.js",
+        "/runtime-es5.edb2fcf2778e7bf1d426.js",
+        "/scripts.c5e65019ac1f079e9501.js",
+        "/styles.1dbea5d7d933a6be1dfc.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/favicon_egu_128x128_.png",
+        "/assets/icons/favicon_egu_144x144_.png",
+        "/assets/icons/favicon_egu_152x152_.png",
+        "/assets/icons/favicon_egu_195x195_.png",
+        "/assets/icons/favicon_egu_512x512_.png",
+        "/assets/icons/favicon_egu_76x76_.png",
+        "/assets/icons/favicon_egu_96x96_.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "sessions",
+      "patterns": [
+        "https:\\/\\/egu2019\\.waldorf\\/pwa\\/index\\.html",
+        "https:\\/\\/egu2020\\.waldorf\\/pwa\\/",
+        "https:\\/\\/waldorf-meetingorganizer\\.copernicus\\.org\\/REST\\/PWA\\/ConferenceData\\/EGU2019\\/"
+      ],
+      "strategy": "performance",
+      "maxSize": 20,
+      "maxAge": 259200000,
+      "timeoutMs": 5000,
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/assets/icons/favicon_egu_128x128_.png": "84317194d32a1e2b31582046da51a5038dd3a7f8",
+    "/assets/icons/favicon_egu_144x144_.png": "080e194f56698c902a216b1aa178a91bde532146",
+    "/assets/icons/favicon_egu_152x152_.png": "0acfcdaaa8bd116d6a9f7820de0cceae9753ca5f",
+    "/assets/icons/favicon_egu_195x195_.png": "7e3390f082002d36c2591d5cd9ae84e5504b90b2",
+    "/assets/icons/favicon_egu_512x512_.png": "a22b22b9019e40e4f6d1b9076d3a6235a25ac95b",
+    "/assets/icons/favicon_egu_76x76_.png": "3dd7bf5128ebcef4f09d7beb6b0336ef1f3e4e91",
+    "/assets/icons/favicon_egu_96x96_.png": "ac9e6f2068f4910b75f461bdce693945765ca7ea",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "524d8b4695118d408e555736d7559af5ff7cf067",
+    "/main-es2015.82ccfd40418212f1a04e.js": "f96a22993dd9e2ef4fd800e3e9e46165b60d6076",
+    "/main-es5.82ccfd40418212f1a04e.js": "5edb816b062de747e72e2705994097cf8b996845",
+    "/manifest.webmanifest": "5724d7c12fe3696cf268b9b5ad3e0c8dfd430439",
+    "/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
+    "/polyfills-es5.6696c533341b95a3d617.js": "6bff0c03e05bb347d213ad1b3674045eb892d189",
+    "/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/scripts.c5e65019ac1f079e9501.js": "8a9ff7160bb4d554b665c6b686b78c7679af200b",
+    "/styles.1dbea5d7d933a6be1dfc.css": "229c5b3153432304193111bd347cbebd23fe129d"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
