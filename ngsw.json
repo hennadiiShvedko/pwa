@@ -1,24 +1,24 @@
 {
   "configVersion": 1,
   "timestamp": 1581927539954,
-  "index": "/index.html",
+  "index": "https://hennadiishvedko.github.io/pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main-es2015.0ba70dd724825c3dcdb9.js",
-        "/main-es5.0ba70dd724825c3dcdb9.js",
-        "/manifest.webmanifest",
-        "/polyfills-es2015.2987770fde9daa1d8a2e.js",
-        "/polyfills-es5.6696c533341b95a3d617.js",
-        "/runtime-es2015.edb2fcf2778e7bf1d426.js",
-        "/runtime-es5.edb2fcf2778e7bf1d426.js",
-        "/scripts.5c26e4e3624996a4fa51.js",
-        "/styles.1dbea5d7d933a6be1dfc.css"
+        "https://hennadiishvedko.github.io/pwa/favicon.ico",
+        "https://hennadiishvedko.github.io/pwa/index.html",
+        "https://hennadiishvedko.github.io/pwa/main-es2015.0ba70dd724825c3dcdb9.js",
+        "https://hennadiishvedko.github.io/pwa/main-es5.0ba70dd724825c3dcdb9.js",
+        "https://hennadiishvedko.github.io/pwa/manifest.webmanifest",
+        "https://hennadiishvedko.github.io/pwa/polyfills-es2015.2987770fde9daa1d8a2e.js",
+        "https://hennadiishvedko.github.io/pwa/polyfills-es5.6696c533341b95a3d617.js",
+        "https://hennadiishvedko.github.io/pwa/runtime-es2015.edb2fcf2778e7bf1d426.js",
+        "https://hennadiishvedko.github.io/pwa/runtime-es5.edb2fcf2778e7bf1d426.js",
+        "https://hennadiishvedko.github.io/pwa/scripts.5c26e4e3624996a4fa51.js",
+        "https://hennadiishvedko.github.io/pwa/styles.1dbea5d7d933a6be1dfc.css"
       ],
       "patterns": []
     },
